@@ -1094,7 +1094,7 @@
     <string name="noon" msgid="7245353528818587908">"mediodía"</string>
     <string name="Noon" msgid="3342127745230013127">"Mediodía"</string>
     <string name="midnight" msgid="7166259508850457595">"media noite"</string>
-    <string name="Midnight" msgid="5630806906897892201">"Media noiche"</string>
+    <string name="Midnight" msgid="5630806906897892201">"Media noite"</string>
     <string name="elapsed_time_short_format_mm_ss" msgid="4431555943828711473">"<xliff:g id="MINUTES">%1$02d</xliff:g>:<xliff:g id="SECONDS">%2$02d</xliff:g>"</string>
     <string name="elapsed_time_short_format_h_mm_ss" msgid="1846071997616654124">"<xliff:g id="HOURS">%1$d</xliff:g>:<xliff:g id="MINUTES">%2$02d</xliff:g>:<xliff:g id="SECONDS">%3$02d</xliff:g>"</string>
     <string name="selectAll" msgid="6876518925844129331">"Seleccionar todo"</string>
@@ -1106,14 +1106,14 @@
     <string name="copyUrl" msgid="2538211579596067402">"Copiar URL"</string>
     <string name="selectTextMode" msgid="1018691815143165326">"Seleccionar texto"</string>
     <string name="textSelectionCABTitle" msgid="5236850394370820357">"Selección de texto"</string>
-    <string name="addToDictionary" msgid="4352161534510057874">"Agregar al diccionario"</string>
+    <string name="addToDictionary" msgid="4352161534510057874">"Agregar ao dicionario"</string>
     <string name="deleteText" msgid="6979668428458199034">"Eliminar"</string>
     <string name="inputMethod" msgid="1653630062304567879">"Método de entrada"</string>
-    <string name="editTextMenuTitle" msgid="4909135564941815494">"Acciones de texto"</string>
-    <string name="low_internal_storage_view_title" msgid="5576272496365684834">"Queda poco espacio de almacenamiento"</string>
-    <string name="low_internal_storage_view_text" msgid="6640505817617414371">"Es posible que algunas funciones del sistema no estén disponibles."</string>
-    <string name="app_running_notification_title" msgid="8718335121060787914">"<xliff:g id="APP_NAME">%1$s</xliff:g> se está ejecutando"</string>
-    <string name="app_running_notification_text" msgid="4653586947747330058">"Toca para obtener más información o para detener la aplicación."</string>
+    <string name="editTextMenuTitle" msgid="4909135564941815494">" 	Accións de texto"</string>
+    <string name="low_internal_storage_view_title" msgid="5576272496365684834">"Queda pouco espazo de almacenamiento"</string>
+    <string name="low_internal_storage_view_text" msgid="6640505817617414371">"É posible que algunhas funcións do sistema non estean dispoñibles."</string>
+    <string name="app_running_notification_title" msgid="8718335121060787914">"<xliff:g id="APP_NAME">%1$s</xliff:g> estase executando"</string>
+    <string name="app_running_notification_text" msgid="4653586947747330058">"Toca para obter máis información ou para deter a aplicación."</string>
     <string name="ok" msgid="5970060430562524910">"Aceptar"</string>
     <string name="cancel" msgid="6442560571259935130">"Cancelar"</string>
     <string name="yes" msgid="5362982303337969312">"Aceptar"</string>
@@ -1122,13 +1122,13 @@
     <string name="loading" msgid="7933681260296021180">"Cargando…"</string>
     <string name="capital_on" msgid="1544682755514494298">"Sí"</string>
     <string name="capital_off" msgid="6815870386972805832">"Non"</string>
-    <string name="whichApplication" msgid="4533185947064773386">"Completar la acción mediante"</string>
-    <string name="whichHomeApplication" msgid="4616420172727326782">"Seleccionar una aplicación de la pantalla principal"</string>
-    <string name="alwaysUse" msgid="4583018368000610438">"Utilizar de manera predeterminada en esta acción."</string>
-    <string name="clearDefaultHintMsg" msgid="3252584689512077257">"Eliminar valores predeterminados en Configuración del sistema &gt; Aplicaciones &gt; Descargas."</string>
-    <string name="chooseActivity" msgid="7486876147751803333">"Seleccionar una acción"</string>
-    <string name="chooseUsbActivity" msgid="6894748416073583509">"Selecciona una aplicación para el dispositivo USB."</string>
-    <string name="noApplications" msgid="2991814273936504689">"Ninguna aplicación puede realizar esta acción."</string>
+    <string name="whichApplication" msgid="4533185947064773386">"Completar a acción mediante"</string>
+    <string name="whichHomeApplication" msgid="4616420172727326782">"Seleccionar unha aplicación da pantalla principal"</string>
+    <string name="alwaysUse" msgid="4583018368000610438">"Utilizar de xeito predeterminado nesta acción."</string>
+    <string name="clearDefaultHintMsg" msgid="3252584689512077257">"Eliminar valores predeterminados en Configuración do sistema &gt; Aplicacións &gt; Descargas."</string>
+    <string name="chooseActivity" msgid="7486876147751803333">"Seleccionar unha acción"</string>
+    <string name="chooseUsbActivity" msgid="6894748416073583509">"Selecciona unha aplicación para o dispositivo USB."</string>
+    <string name="noApplications" msgid="2991814273936504689">"Ningunha aplicación pode realizar esta acción."</string>
     <string name="aerr_title" msgid="1905800560317137752"></string>
     <string name="aerr_application" msgid="932628488013092776">"Lamentablemente, la aplicación <xliff:g id="APPLICATION">%1$s</xliff:g> se detuvo."</string>
     <string name="aerr_process" msgid="4507058997035697579">"Lamentablemente, el proceso <xliff:g id="PROCESS">%1$s</xliff:g> se detuvo."</string>
