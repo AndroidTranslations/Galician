@@ -19,12 +19,12 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="3853942104135735825">"Instalador de datos de síntesis de voz"</string>
-    <string name="installing_message" product="nosdcard" msgid="737236126329813405">"Instalando datos de voz en almacenamiento USB"</string>
-    <string name="installing_message" product="default" msgid="8792926973732354514">"Instalando los datos de voz en la tarjeta SD"</string>
-    <string name="uninstall_message" msgid="174096141356529599">"Los datos de voz se han instalado de manera exitosa. Ahora puedes eliminar este instalador de manera segura."</string>
+    <string name="app_name" msgid="3853942104135735825">"Instalador de datos de síntese de voz"</string>
+    <string name="installing_message" product="nosdcard" msgid="737236126329813405">"Instalando datos de voz en almacenamento USB"</string>
+    <string name="installing_message" product="default" msgid="8792926973732354514">"Instalando os datos de voz na tarxeta SD"</string>
+    <string name="uninstall_message" msgid="174096141356529599">"Os datos de voz instaláronse de xeito exitoso. Agora podes eliminar este instalador de xeito seguro."</string>
     <string name="uninstall" msgid="6195983436684617741">"Desinstalar..."</string>
-    <string name="retry_message" product="nosdcard" msgid="8048316007107408391">"No se pudieron instalar los datos de voz. Asegúrate de que tu almacenamiento USB disponga de al menos 6 MB de espacio libre."</string>
-    <string name="retry_message" product="default" msgid="4262829785604216441">"No se pudieron instalar los datos de voz. Asegúrate de que tu tarjeta SD se encuentre en tu dispositivo y de que disponga de al menos 6 MB de espacio libre. Si tu tarjeta se encuentra en tu dispositivo, quítala y vuelve a insertarla."</string>
-    <string name="retry" msgid="7470276488993209974">"Intentar nuevamente"</string>
+    <string name="retry_message" product="nosdcard" msgid="8048316007107408391">"Non se puideron instalar os datos de voz. Asegúrate de que o teu almacenamento USB dispoña de polo menos 6 MB de espazo libre."</string>
+    <string name="retry_message" product="default" msgid="4262829785604216441">"Non se puideron instalar os datos de voz. Asegúrate de que a túa tarxeta SD se encontre no teu dispositivo e de que dispoña de polo menos 6 MB de espazo libre. Se a túa tarxeta se encontra no teu dispositivo, quítaa e volve inserila."</string>
+    <string name="retry" msgid="7470276488993209974">"Intentar novamente"</string>
 </resources>
