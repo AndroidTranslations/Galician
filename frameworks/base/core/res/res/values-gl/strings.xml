@@ -1109,7 +1109,7 @@
     <string name="addToDictionary" msgid="4352161534510057874">"Agregar ao dicionario"</string>
     <string name="deleteText" msgid="6979668428458199034">"Eliminar"</string>
     <string name="inputMethod" msgid="1653630062304567879">"Método de entrada"</string>
-    <string name="editTextMenuTitle" msgid="4909135564941815494">" 	Accións de texto"</string>
+    <string name="editTextMenuTitle" msgid="4909135564941815494">"Accións de texto"</string>
     <string name="low_internal_storage_view_title" msgid="5576272496365684834">"Queda pouco espazo de almacenamiento"</string>
     <string name="low_internal_storage_view_text" msgid="6640505817617414371">"É posible que algunhas funcións do sistema non estean dispoñibles."</string>
     <string name="app_running_notification_title" msgid="8718335121060787914">"<xliff:g id="APP_NAME">%1$s</xliff:g> estase executando"</string>
@@ -1130,57 +1130,57 @@
     <string name="chooseUsbActivity" msgid="6894748416073583509">"Selecciona unha aplicación para o dispositivo USB."</string>
     <string name="noApplications" msgid="2991814273936504689">"Ningunha aplicación pode realizar esta acción."</string>
     <string name="aerr_title" msgid="1905800560317137752"></string>
-    <string name="aerr_application" msgid="932628488013092776">"Lamentablemente, la aplicación <xliff:g id="APPLICATION">%1$s</xliff:g> se detuvo."</string>
-    <string name="aerr_process" msgid="4507058997035697579">"Lamentablemente, el proceso <xliff:g id="PROCESS">%1$s</xliff:g> se detuvo."</string>
+    <string name="aerr_application" msgid="932628488013092776">"Lamentablemente, a aplicación <xliff:g id="APPLICATION">%1$s</xliff:g> detívose."</string>
+    <string name="aerr_process" msgid="4507058997035697579">"Lamentablemente, o proceso <xliff:g id="PROCESS">%1$s</xliff:g> detívose."</string>
     <string name="anr_title" msgid="4351948481459135709"></string>
-    <string name="anr_activity_application" msgid="1904477189057199066">"<xliff:g id="APPLICATION">%2$s</xliff:g> no responde.\n\n¿Deseas cerrarla?"</string>
-    <string name="anr_activity_process" msgid="5776209883299089767">"La actividad <xliff:g id="ACTIVITY">%1$s</xliff:g> no responde.\n\n¿Deseas cerrarla?"</string>
-    <string name="anr_application_process" msgid="8941757607340481057">"<xliff:g id="APPLICATION">%1$s</xliff:g> no responde. ¿Deseas cerrarla?"</string>
-    <string name="anr_process" msgid="6513209874880517125">"El proceso <xliff:g id="PROCESS">%1$s</xliff:g> no responde.\n\n¿Deseas cerrarlo?"</string>
+    <string name="anr_activity_application" msgid="1904477189057199066">"<xliff:g id="APPLICATION">%2$s</xliff:g> non responde.\n\n¿Desexas pechala?"</string>
+    <string name="anr_activity_process" msgid="5776209883299089767">"A actividade <xliff:g id="ACTIVITY">%1$s</xliff:g> non responde.\n\n¿Desexas pechala?"</string>
+    <string name="anr_application_process" msgid="8941757607340481057">"<xliff:g id="APPLICATION">%1$s</xliff:g> non responde. ¿Desexas pechala?"</string>
+    <string name="anr_process" msgid="6513209874880517125">"O proceso <xliff:g id="PROCESS">%1$s</xliff:g> non responde.\n\n¿Desexas pechala?"</string>
     <string name="force_close" msgid="8346072094521265605">"Aceptar"</string>
     <string name="report" msgid="4060218260984795706">"Notificar"</string>
     <string name="wait" msgid="7147118217226317732">"Esperar"</string>
-    <string name="webpage_unresponsive" msgid="3272758351138122503">"La página no responde.\n\n¿Deseas cerrarla?"</string>
+    <string name="webpage_unresponsive" msgid="3272758351138122503">"A páxina non responde.\n\n¿Desexas pechala?"</string>
     <string name="launch_warning_title" msgid="1547997780506713581">"Aplicación redireccionada"</string>
-    <string name="launch_warning_replace" msgid="6202498949970281412">"<xliff:g id="APP_NAME">%1$s</xliff:g> se está ejecutando ahora."</string>
-    <string name="launch_warning_original" msgid="188102023021668683">"<xliff:g id="APP_NAME">%1$s</xliff:g> se inició originalmente."</string>
+    <string name="launch_warning_replace" msgid="6202498949970281412">"<xliff:g id="APP_NAME">%1$s</xliff:g> estase executando agora."</string>
+    <string name="launch_warning_original" msgid="188102023021668683">"<xliff:g id="APP_NAME">%1$s</xliff:g> iniciouse originalmente."</string>
     <string name="screen_compat_mode_scale" msgid="3202955667675944499">"Escala"</string>
-    <string name="screen_compat_mode_show" msgid="4013878876486655892">"Mostrar siempre"</string>
-    <string name="screen_compat_mode_hint" msgid="1064524084543304459">"Volver a activar Configuración del sistema &gt; Aplicaciones &gt; Descargas"</string>
-    <string name="smv_application" msgid="3307209192155442829">"La aplicación <xliff:g id="APPLICATION">%1$s</xliff:g> (proceso <xliff:g id="PROCESS">%2$s</xliff:g>) ha infringido su política StrictMode de aplicación automática."</string>
-    <string name="smv_process" msgid="5120397012047462446">"El proceso <xliff:g id="PROCESS">%1$s</xliff:g> ha violado su política StrictMode autoimpuesta."</string>
-    <string name="android_upgrading_title" msgid="1584192285441405746">"Android se está actualizando..."</string>
-    <string name="android_upgrading_apk" msgid="7904042682111526169">"Optimizando la aplicación <xliff:g id="NUMBER_0">%1$d</xliff:g> de <xliff:g id="NUMBER_1">%2$d</xliff:g>"</string>
-    <string name="android_upgrading_starting_apps" msgid="451464516346926713">"Iniciando aplicaciones"</string>
-    <string name="android_upgrading_complete" msgid="1405954754112999229">"Finalizando el inicio"</string>
-    <string name="heavy_weight_notification" msgid="9087063985776626166">"<xliff:g id="APP">%1$s</xliff:g> en ejecución"</string>
-    <string name="heavy_weight_notification_detail" msgid="1721681741617898865">"Toca para cambiar a la aplicación"</string>
-    <string name="heavy_weight_switcher_title" msgid="7153167085403298169">"¿Deseas cambiar aplicaciones?"</string>
-    <string name="heavy_weight_switcher_text" msgid="7022631924534406403">"Ya se está ejecutando una aplicación que debe detenerse antes de iniciar una nueva."</string>
+    <string name="screen_compat_mode_show" msgid="4013878876486655892">"Mostrar sempre"</string>
+    <string name="screen_compat_mode_hint" msgid="1064524084543304459">"Volver activar Configuración do sistema &gt; Aplicacións &gt; Descargas"</string>
+    <string name="smv_application" msgid="3307209192155442829">"A aplicación <xliff:g id="APPLICATION">%1$s</xliff:g> (proceso <xliff:g id="PROCESS">%2$s</xliff:g>) infrinxiu a súa política StrictMode de aplicación automática."</string>
+    <string name="smv_process" msgid="5120397012047462446">O proceso <xliff:g id="PROCESS">%1$s</xliff:g> violou a súa política StrictMode autoimposta."</string>
+    <string name="android_upgrading_title" msgid="1584192285441405746">"Android estase actualizando..."</string>
+    <string name="android_upgrading_apk" msgid="7904042682111526169">"Optimizando a aplicación <xliff:g id="NUMBER_0">%1$d</xliff:g> do <xliff:g id="NUMBER_1">%2$d</xliff:g>"</string>
+    <string name="android_upgrading_starting_apps" msgid="451464516346926713">"Iniciando aplicacións"</string>
+    <string name="android_upgrading_complete" msgid="1405954754112999229">"Finalizando o inicio"</string>
+    <string name="heavy_weight_notification" msgid="9087063985776626166">"<xliff:g id="APP">%1$s</xliff:g> en execución"</string>
+    <string name="heavy_weight_notification_detail" msgid="1721681741617898865">"Toca para cambiar á aplicación"</string>
+    <string name="heavy_weight_switcher_title" msgid="7153167085403298169">"¿Desexas cambiar aplicacións?"</string>
+    <string name="heavy_weight_switcher_text" msgid="7022631924534406403">"Xa se está executando unha aplicación que debe deterse antes de iniciar unha nova."</string>
     <string name="old_app_action" msgid="493129172238566282">"Regresar a <xliff:g id="OLD_APP">%1$s</xliff:g>"</string>
-    <string name="old_app_description" msgid="2082094275580358049">"No iniciar la nueva aplicación."</string>
+    <string name="old_app_description" msgid="2082094275580358049">"Non iniciar a nova aplicación."</string>
     <string name="new_app_action" msgid="5472756926945440706">"Inicio <xliff:g id="OLD_APP">%1$s</xliff:g>"</string>
-    <string name="new_app_description" msgid="1932143598371537340">"Interrumpe la aplicación anterior sin guardar los cambios."</string>
-    <string name="sendText" msgid="5209874571959469142">"Seleccionar una acción para el texto"</string>
-    <string name="volume_ringtone" msgid="6885421406845734650">"Volumen del timbre"</string>
-    <string name="volume_music" msgid="5421651157138628171">"Volumen de los medios"</string>
-    <string name="volume_music_hint_playing_through_bluetooth" msgid="9165984379394601533">"Reproduciendo a través de Bluetooth"</string>
-    <string name="volume_music_hint_silent_ringtone_selected" msgid="8310739960973156272">"Tono de silencio establecido"</string>
-    <string name="volume_call" msgid="3941680041282788711">"Volumen de llamadas entrantes"</string>
-    <string name="volume_bluetooth_call" msgid="2002891926351151534">"Volumen en llamada de Bluetooth"</string>
-    <string name="volume_alarm" msgid="1985191616042689100">"Volumen de la alarma"</string>
-    <string name="volume_notification" msgid="2422265656744276715">"Volumen de notificación"</string>
-    <string name="volume_unknown" msgid="1400219669770445902">"Volumen"</string>
-    <string name="volume_icon_description_bluetooth" msgid="6538894177255964340">"Volumen de Bluetooth"</string>
-    <string name="volume_icon_description_ringer" msgid="3326003847006162496">"Volumen del tono de llamada"</string>
-    <string name="volume_icon_description_incall" msgid="8890073218154543397">"Volumen de la llamada"</string>
-    <string name="volume_icon_description_media" msgid="4217311719665194215">"Volumen de los medios"</string>
-    <string name="volume_icon_description_notification" msgid="7044986546477282274">"Volumen de notificación"</string>
-    <string name="ringtone_default" msgid="3789758980357696936">"Tono de llamada predeterminado"</string>
-    <string name="ringtone_default_with_actual" msgid="8129563480895990372">"Tono de llamada predeterminado (<xliff:g id="ACTUAL_RINGTONE">%1$s</xliff:g>)"</string>
-    <string name="ringtone_silent" msgid="7937634392408977062">"Ninguno"</string>
-    <string name="ringtone_picker_title" msgid="3515143939175119094">"Tonos de llamada"</string>
-    <string name="ringtone_unknown" msgid="5477919988701784788">"Tono de llamada desconocido"</string>
+    <string name="new_app_description" msgid="1932143598371537340">"Interrompe a aplicación anterior sen gardar os cambios."</string>
+    <string name="sendText" msgid="5209874571959469142">"Seleccionar unha acción para o texto"</string>
+    <string name="volume_ringtone" msgid="6885421406845734650">"Volume do timbre"</string>
+    <string name="volume_music" msgid="5421651157138628171">"Volume dos medios"</string>
+    <string name="volume_music_hint_playing_through_bluetooth" msgid="9165984379394601533">"Reproducindo a través de Bluetooth"</string>
+    <string name="volume_music_hint_silent_ringtone_selected" msgid="8310739960973156272">"Ton de silencio establecido"</string>
+    <string name="volume_call" msgid="3941680041282788711">"Volume de chamadas entrantes"</string>
+    <string name="volume_bluetooth_call" msgid="2002891926351151534">"Volume en chamada de Bluetooth"</string>
+    <string name="volume_alarm" msgid="1985191616042689100">"Volume da alarma"</string>
+    <string name="volume_notification" msgid="2422265656744276715">"Volume de notificación"</string>
+    <string name="volume_unknown" msgid="1400219669770445902">"Volume"</string>
+    <string name="volume_icon_description_bluetooth" msgid="6538894177255964340">"Volume de Bluetooth"</string>
+    <string name="volume_icon_description_ringer" msgid="3326003847006162496">"Volume do ton de chamada"</string>
+    <string name="volume_icon_description_incall" msgid="8890073218154543397">"Volume da chamada"</string>
+    <string name="volume_icon_description_media" msgid="4217311719665194215">"Volume dos medios"</string>
+    <string name="volume_icon_description_notification" msgid="7044986546477282274">"Volume de notificación"</string>
+    <string name="ringtone_default" msgid="3789758980357696936">"Ton de chamada predeterminado"</string>
+    <string name="ringtone_default_with_actual" msgid="8129563480895990372">"Ton de chamada predeterminado (<xliff:g id="ACTUAL_RINGTONE">%1$s</xliff:g>)"</string>
+    <string name="ringtone_silent" msgid="7937634392408977062">"Ningún"</string>
+    <string name="ringtone_picker_title" msgid="3515143939175119094">"Tons de chamada"</string>
+    <string name="ringtone_unknown" msgid="5477919988701784788">"Ton de chamada descoñecido"</string>
   <plurals name="wifi_available">
     <item quantity="one" msgid="6654123987418168693">"Red disponible de Wi-Fi"</item>
     <item quantity="other" msgid="4192424489168397386">"redes disponibles de Wi-Fi"</item>
